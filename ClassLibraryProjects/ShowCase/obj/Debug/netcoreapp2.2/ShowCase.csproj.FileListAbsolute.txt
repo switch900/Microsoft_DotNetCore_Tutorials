@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.deps.json
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.runtimeconfig.json
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.pdb
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\StringLibrary.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.2\StringLibrary.pdb
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csproj.CopyComplete
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.pdb
